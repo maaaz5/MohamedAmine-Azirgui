@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MohamedAmine</h1>
-<h3 align="center">UX/UI Designer & Developer</h3>
+<h3 align="center">Web Designer & Developer</h3>
 
 - 📫 How to reach me **mohamed.a.azirgui@gmail.com**
 
